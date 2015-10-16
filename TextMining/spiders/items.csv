@@ -86,10 +86,6 @@ frynn.com,http://frynn.com/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%8
 frynn.com,http://frynn.com/vegetable/,ผัก
 frynn.com,http://frynn.com/fruit/,ผลไม้
 frynn.com,http://frynn.com/nutrient/,วิตามินและแร่ธาตุ
-health.kapook.com,http://health.kapook.com/herb,
-health.kapook.com,http://health.kapook.com/herb,เข้าระบบ
-signup-demo.kapook.com,http://signup-demo.kapook.com/account/signup?apikey=cxsw3ed21qaz&callback=http://health.kapook.com/herb,สมัครสมาชิก ได้มากกว่าที่คุณคิด
-headline.kapook.com,"http://headline.kapook.com,http://headline.kapook.com",ข่าวด่วน
 hot.frynn.com,http://hot.frynn.com,Lifestyle
 frynn.com,http://frynn.com/about/,เกี่ยวกับเรา
 frynn.com,http://frynn.com/terms/,เงื่อนไขและนโยบาย
@@ -97,15 +93,6 @@ frynn.com,http://frynn.com/contact/,ติดต่อสอบถาม
 frynn.com,http://frynn.com,
 frynn.com,http://frynn.com/%e0%b8%9e%e0%b8%b4%e0%b8%a9%e0%b8%99%e0%b8%b2%e0%b8%a8%e0%b8%99%e0%b9%8c/, 
 frynn.com,http://frynn.com/%e0%b8%9e%e0%b8%b1%e0%b8%87%e0%b9%81%e0%b8%ab%e0%b8%a3%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88/, 
-sn.kapook.com,"http://sn.kapook.com,http://sn.kapook.com",ข่าวสั้น
-women.kapook.com,"http://women.kapook.com/star,http://women.kapook.com/star",ข่าวดารา
-tv.kapook.com,"http://tv.kapook.com,http://tv.kapook.com",ดูทีวี
-drama.kapook.com,"http://drama.kapook.com,http://drama.kapook.com",ละคร
-movie.kapook.com,"http://movie.kapook.com,http://movie.kapook.com",หนังใหม่
-musicstation.kapook.com,"http://musicstation.kapook.com,http://musicstation.kapook.com",ฟังเพลง
-radio.kapook.com,"http://radio.kapook.com,http://radio.kapook.com",ฟังวิทยุออนไลน์
-gamecenter.kapook.com,"http://gamecenter.kapook.com,http://gamecenter.kapook.com",เกม
-gamecenter.kapook.com,"http://gamecenter.kapook.com/thaichess,http://gamecenter.kapook.com/thaichess",หมากรุกไทย
 frynn.com,http://frynn.com/%e0%b8%9e%e0%b8%a7%e0%b8%87%e0%b8%95%e0%b8%b8%e0%b9%89%e0%b8%a1%e0%b8%ab%e0%b8%b9/, 
 frynn.com,http://frynn.com/%e0%b8%9e%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%a1%e0%b8%ad%e0%b9%89%e0%b8%99/, 
 frynn.com,http://frynn.com/%e0%b8%9e%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%9a%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88/, 
@@ -115,31 +102,21 @@ frynn.com,http://frynn.com/%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%8
 frynn.com,http://frynn.com/%e0%b8%9b%e0%b8%ad%e0%b8%9e%e0%b8%a3%e0%b8%b2%e0%b8%99/, 
 frynn.com,http://frynn.com/%e0%b8%9b%e0%b8%ad%e0%b8%9c%e0%b8%b5/, 
 frynn.com,http://frynn.com/%e0%b8%9b%e0%b8%ad%e0%b9%80%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b9%84%e0%b8%ab%e0%b9%89/, 
-gamecenter.kapook.com,"http://gamecenter.kapook.com/checker,http://gamecenter.kapook.com/checker",แชทหมากฮอส
-glitter.kapook.com,"http://glitter.kapook.com,http://glitter.kapook.com",Glitter
-lottery.kapook.com,"http://lottery.kapook.com,http://lottery.kapook.com",ตรวจหวย
-women.kapook.com,"http://women.kapook.com,http://women.kapook.com",ผู้หญิง
-wedding.kapook.com,"http://wedding.kapook.com,http://wedding.kapook.com",แต่งงาน
-baby.kapook.com,"http://baby.kapook.com,http://baby.kapook.com",แม่และเด็ก
-horoscope.kapook.com,"http://horoscope.kapook.com,http://horoscope.kapook.com",ดูดวง
-www.facebook.com,https://www.facebook.com/frynn,
 frynn.com,http://frynn.com/%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%88%e0%b8%b8%e0%b9%88%e0%b8%a1/, 
 frynn.com,http://frynn.com/%e0%b9%82%e0%b8%97%e0%b8%b0/, 
 frynn.com,http://frynn.com/%e0%b9%80%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%94%e0%b8%87/, 
 frynn.com,http://frynn.com/%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a1/, 
 frynn.com,http://frynn.com/herb/page/2/,Older Entries »
-frynn.com,"http://frynn.com/herb/page/2/,http://frynn.com/herb/page/3/,http://frynn.com/herb/page/10/,http://frynn.com/herb/page/20/,http://frynn.com/herb/page/30/,http://frynn.com/herb/page/2/,http://frynn.com/herb/page/67/","2,3,10,20,30,»,Last »"
-frynn.com,"http://frynn.com,http://frynn.com"," , , HOME "
-dream.kapook.com,"http://dream.kapook.com,http://dream.kapook.com",ทำนายฝัน
-health.kapook.com,"http://health.kapook.com,http://health.kapook.com",สุขภาพ
-pet.kapook.com,"http://pet.kapook.com,http://pet.kapook.com",สัตว์เลี้ยง
-men.kapook.com,"http://men.kapook.com,http://men.kapook.com",ผู้ชาย
-football.kapook.com,"http://football.kapook.com,http://football.kapook.com",ผลบอล
-home.kapook.com,"http://home.kapook.com,http://home.kapook.com",บ้านและการตกแต่ง
-travel.kapook.com,"http://travel.kapook.com,http://travel.kapook.com",ท่องเที่ยว
-guide.kapook.com,"http://guide.kapook.com,http://guide.kapook.com",แวะชิมแวะพัก
-poem.kapook.com,"http://poem.kapook.com,http://poem.kapook.com",กลอน
-icare.kapook.com,"http://icare.kapook.com,http://icare.kapook.com",iCare
+frynn.com,http://frynn.com/herb/page/2/,2
+frynn.com,http://frynn.com/herb/page/3/,3
+frynn.com,http://frynn.com/herb/page/10/,10
+frynn.com,http://frynn.com/herb/page/20/,20
+frynn.com,http://frynn.com/herb/page/30/,30
+frynn.com,http://frynn.com/herb/page/2/,»
+frynn.com,http://frynn.com/herb/page/67/,Last »
+frynn.com,http://frynn.com, 
+frynn.com,http://frynn.com, 
+www.facebook.com,https://www.facebook.com/frynn,
 twitter.com,https://twitter.com/FrynnMD,
 plus.google.com,https://plus.google.com/105108896034267152700/,
 www.linkedin.com,http://www.linkedin.com/in/frynn,
@@ -151,13 +128,6 @@ frynn.com,http://frynn.com/mind-and-body/,ร่างกายและจิ�
 frynn.com,http://frynn.com/family-pregnancy/,ครอบครัวและการตั้งครรภ์
 frynn.com,http://frynn.com/family-pregnancy/sex-and-relationships/,เซ็กส์และความสัมพันธ์
 frynn.com,http://frynn.com/weight-loss/,วิธีลดน้ำหนัก & ความอ้วน
-education.kapook.com,"http://education.kapook.com,http://education.kapook.com",การศึกษา
-dict.kapook.com,"http://dict.kapook.com,http://dict.kapook.com",dictionary
-speedtest.kapook.com,"http://speedtest.kapook.com,http://speedtest.kapook.com",เช็คความเร็วเน็ต
-iphone.kapook.com,"http://iphone.kapook.com,http://iphone.kapook.com",iPhone
-facebook.kapook.com,"http://facebook.kapook.com,http://facebook.kapook.com",Facebook
-twitter.kapook.com,"http://twitter.kapook.com,http://twitter.kapook.com",Twitter
-women.kapook.com,"http://women.kapook.com/view34057.html,http://women.kapook.com/view34057.html",อินสตาแกรมดารา
 frynn.com,http://frynn.com/beauty/,ความสวย ความงาม
 frynn.com,http://frynn.com/bright-skin/,วิธีทำให้ผิวขาว
 frynn.com,http://frynn.com/clear-spots/,วิธีรักษาสิว ฝ้า กระ
@@ -166,17 +136,6 @@ frynn.com,http://frynn.com/herb/,สมุนไพร
 frynn.com,http://frynn.com/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3/,รายชื่อสมุนไพร ก-ฮ
 frynn.com,http://frynn.com/vegetable/,ผัก
 frynn.com,http://frynn.com/fruit/,ผลไม้
-msn.kapook.com,"http://msn.kapook.com,http://msn.kapook.com",MSN
-www.kapook.com,http://www.kapook.com/,
-health.kapook.com,http://health.kapook.com,
-health.kapook.com,http://health.kapook.com/herb,
-health.kapook.com,http://health.kapook.com/herb,
-health.kapook.com,http://health.kapook.com/herb,
-health.kapook.com,http://health.kapook.com/diet,วิธีลดน้ำหนัก
-health.kapook.com,http://health.kapook.com/exercise,ออกกำลังกาย
-health.kapook.com,http://health.kapook.com/mental_health,สุขภาพจิต
-health.kapook.com,http://health.kapook.com/disease,โรคและการป้องกัน
-health.kapook.com,http://health.kapook.com/women,"สุขภาพ,ผู้หญิง"
 frynn.com,http://frynn.com/nutrient/,วิตามินและแร่ธาตุ
 hot.frynn.com,http://hot.frynn.com,Lifestyle
 frynn.com,http://frynn.com/about/,เกี่ยวกับเรา
@@ -187,11 +146,8 @@ frynn.com,http://frynn.com/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%8
 frynn.com,http://frynn.com/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3/#T-3,"3 หมวด ต, ถ, ท, ธ, น"
 frynn.com,http://frynn.com/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3/#T-4,"4 หมวด บ, ป, ผ, ฝ, พ"
 frynn.com,http://frynn.com/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3/#T-5,"5 หมวด ฟ, ม, ย, ร, ล"
-men.kapook.com,http://men.kapook.com/health,"สุขภาพ,ผู้ชาย"
-health.kapook.com,http://health.kapook.com/food,"อาหารเพื่อ,สุขภาพ"
-health.kapook.com,http://health.kapook.com/herb,"สมุนไพรเพื่อ,สุขภาพ"
-health.kapook.com,http://health.kapook.com/intrend,"สุขภาพ,อินเทรนด์"
-health.kapook.com,http://health.kapook.com/care,การดูแลสุขภาพ
+health.kapook.com,http://health.kapook.com/herb,
+health.kapook.com,http://health.kapook.com/herb,เข้าระบบ
 frynn.com,http://frynn.com/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3/#T-6,"6 หมวด ว, ส, ห, อ, ฮ"
 frynn.com,http://frynn.com/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3/#T-7,7 สมุนไพรจากสัตว์
 frynn.com,http://frynn.com/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3/#T-8,8 สมุนไพรจากแหล่งอื่น
@@ -202,114 +158,36 @@ frynn.com,http://frynn.com/tag/ACORACEAE/,ACORACEAE
 frynn.com,http://frynn.com/tag/ADOXACEAE/,ADOXACEAE
 frynn.com,http://frynn.com/tag/AIZOACEAE/,AIZOACEAE
 frynn.com,http://frynn.com/tag/AMARANTHACEAE/,AMARANTHACEAE
+signup-demo.kapook.com,http://signup-demo.kapook.com/account/signup?apikey=cxsw3ed21qaz&callback=http://health.kapook.com/herb,สมัครสมาชิก ได้มากกว่าที่คุณคิด
+headline.kapook.com,http://headline.kapook.com,ข่าวด่วน
 frynn.com,http://frynn.com/tag/AMARYLLIDACEAE/,AMARYLLIDACEAE
-frynn.com,"http://frynn.com/tag/ALLIOIDEAE/,http://frynn.com/tag/ALLIACEAE/","ALLIOIDEAE ,ALLIACEAE"
-health.kapook.com,http://health.kapook.com/news,ข่าวสุขภาพ
-health.kapook.com,http://health.kapook.com/clip,คลิปสุขภาพ
-health.kapook.com,http://health.kapook.com/view131364.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view130805.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view129463.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view128772.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view128684.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view128605.html,"
-                            ,
-                            ,
-                        "
+frynn.com,http://frynn.com/tag/ALLIOIDEAE/,ALLIOIDEAE 
+frynn.com,http://frynn.com/tag/ALLIACEAE/,ALLIACEAE
 frynn.com,http://frynn.com/tag/ANACARDIACEAE/,ANACARDIACEAE
 frynn.com,http://frynn.com/tag/ANCISTROCLADACEAE/,ANCISTROCLADACEAE
 frynn.com,http://frynn.com/tag/ANNONACEAE/,ANNONACEAE
-frynn.com,"http://frynn.com/tag/APIACEAE/,http://frynn.com/tag/UMBELLIFERAE/","APIACEAE,UMBELLIFERAE"
+frynn.com,http://frynn.com/tag/APIACEAE/,APIACEAE
+frynn.com,http://frynn.com/tag/UMBELLIFERAE/,UMBELLIFERAE
 frynn.com,http://frynn.com/tag/HYDROCOTYLOIDEAE/,HYDROCOTYLOIDEAE
 frynn.com,http://frynn.com/tag/APOCYNACEAE/,APOCYNACEAE
 frynn.com,http://frynn.com/tag/APOCYNOIDEAE/,APOCYNOIDEAE
-frynn.com,"http://frynn.com/tag/ASCLEPIADOIDEAE/,http://frynn.com/tag/ASCLEPIADACEAE/","ASCLEPIADOIDEAE,ASCLEPIADACEAE"
+frynn.com,http://frynn.com/tag/ASCLEPIADOIDEAE/,ASCLEPIADOIDEAE
+frynn.com,http://frynn.com/tag/ASCLEPIADACEAE/,ASCLEPIADACEAE
 frynn.com,http://frynn.com/tag/RAUVOLFIOIDEAE/,RAUVOLFIOIDEAE
 frynn.com,http://frynn.com/tag/ARACEAE/,ARACEAE
 frynn.com,http://frynn.com/tag/ARALIACEAE/,ARALIACEAE
 frynn.com,http://frynn.com/tag/ARALIOIDEAE/,ARALIOIDEAE
-health.kapook.com,http://health.kapook.com/view128540.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view128415.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view128409.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view127678.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view127456.html,"
-                            ,
-                            ,
-                        "
-frynn.com,"http://frynn.com/tag/ARECACEAE/,http://frynn.com/tag/PALMAE/,http://frynn.com/tag/PALMACEAE/","ARECACEAE,PALMAE,PALMACEAE"
+frynn.com,http://frynn.com/tag/ARECACEAE/,ARECACEAE
+frynn.com,http://frynn.com/tag/PALMAE/,PALMAE
+frynn.com,http://frynn.com/tag/PALMACEAE/,PALMACEAE
 frynn.com,http://frynn.com/tag/ARISTOLOCHIACEAE/,ARISTOLOCHIACEAE
 frynn.com,http://frynn.com/tag/ASPARAGACEAE/,ASPARAGACEAE
 frynn.com,http://frynn.com/tag/ASPARAGOIDEAE/,ASPARAGOIDEAE
 frynn.com,http://frynn.com/tag/LOMANDROIDEAE/,LOMANDROIDEAE
 frynn.com,http://frynn.com/tag/NOLINOIDEAE/,NOLINOIDEAE
-frynn.com,"http://frynn.com/tag/ASTERACEAE/,http://frynn.com/tag/COMPOSITAE/","ASTERACEAE,COMPOSITAE"
+frynn.com,http://frynn.com/tag/ASTERACEAE/,ASTERACEAE
+frynn.com,http://frynn.com/tag/COMPOSITAE/,COMPOSITAE
 frynn.com,http://frynn.com/tag/ATHYRIACEAE/,ATHYRIACEAE
-health.kapook.com,http://health.kapook.com/view126836.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view126408.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view124652.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view124304.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view124264.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view123772.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view123748.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view122245.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view122154.html,"
-                            ,
-                            ,
-                        "
-health.kapook.com,http://health.kapook.com/view121843.html,"
-                            ,
-                            ,
-                        "
 frynn.com,http://frynn.com/tag/AURICULARIACEAE/,AURICULARIACEAE
 frynn.com,http://frynn.com/tag/BALANOPHORACEAE/,BALANOPHORACEAE
 frynn.com,http://frynn.com/tag/BALSAMINACEAE/,BALSAMINACEAE
@@ -318,19 +196,9 @@ frynn.com,http://frynn.com/tag/BETULACEAE/,BETULACEAE
 frynn.com,http://frynn.com/tag/BIGNONIACEAE/,BIGNONIACEAE
 frynn.com,http://frynn.com/tag/BIXACEAE/,BIXACEAE
 frynn.com,http://frynn.com/tag/BORAGINACEAE/,BORAGINACEAE
-frynn.com,"http://frynn.com/tag/BRASSICACEAE/,http://frynn.com/tag/CRUCIFERAE/","BRASSICACEAE,CRUCIFERAE"
+frynn.com,http://frynn.com/tag/BRASSICACEAE/,BRASSICACEAE
+frynn.com,http://frynn.com/tag/CRUCIFERAE/,CRUCIFERAE
 frynn.com,http://frynn.com/tag/BROMELIACEAE/,BROMELIACEAE
-health.kapook.com,http://health.kapook.com/view121730.html,"
-                            ,
-                            ,
-                        "
-,javascript:void(0);,«
-,javascript:void(0);,1
-health.kapook.com,http://health.kapook.com/herb?page=2,2
-health.kapook.com,http://health.kapook.com/herb?page=3,3
-health.kapook.com,http://health.kapook.com/herb?page=4,4
-health.kapook.com,http://health.kapook.com/herb?page=5,5
-health.kapook.com,http://health.kapook.com/herb?page=6,6
 frynn.com,http://frynn.com/tag/BROMELIOIDEAE/,BROMELIOIDEAE
 frynn.com,http://frynn.com/tag/BURSERACEAE/,BURSERACEAE
 frynn.com,http://frynn.com/tag/CACTACEAE/,CACTACEAE
@@ -338,18 +206,10 @@ frynn.com,http://frynn.com/tag/CALOPHYLLACEAE/,CALOPHYLLACEAE
 frynn.com,http://frynn.com/tag/CAMPANULACEAE/,CAMPANULACEAE
 frynn.com,http://frynn.com/tag/CANNABACEAE/,CANNABACEAE
 frynn.com,http://frynn.com/tag/CANNACEAE/,CANNACEAE
-frynn.com,"http://frynn.com/tag/CAPPARACEAE/,http://frynn.com/tag/CAPPARIDACEAE/","CAPPARACEAE,CAPPARIDACEAE"
+frynn.com,http://frynn.com/tag/CAPPARACEAE/,CAPPARACEAE
+frynn.com,http://frynn.com/tag/CAPPARIDACEAE/,CAPPARIDACEAE
 frynn.com,http://frynn.com/tag/CAPRIFOLIACEAE/,CAPRIFOLIACEAE
 frynn.com,http://frynn.com/tag/CARDIOPTERIDACEAE/,CARDIOPTERIDACEAE
-health.kapook.com,http://health.kapook.com/herb?page=7,7
-health.kapook.com,http://health.kapook.com/herb?page=2,»
-health.kapook.com,http://health.kapook.com/view49094.html,
-health.kapook.com,http://health.kapook.com/view131842.html,
-health.kapook.com,http://health.kapook.com/view131417.html,
-health.kapook.com,http://health.kapook.com/view113773.html,
-health.kapook.com,http://health.kapook.com/view131576.html,
-health.kapook.com,http://health.kapook.com/view2522.html,
-health.kapook.com,http://health.kapook.com/view131788.html,
 frynn.com,http://frynn.com/tag/CARICACEAE/,CARICACEAE
 frynn.com,http://frynn.com/tag/CARYOPHYLLACEAE/,CARYOPHYLLACEAE
 frynn.com,http://frynn.com/tag/CASUARINACEAE/,CASUARINACEAE
@@ -358,17 +218,9 @@ frynn.com,http://frynn.com/tag/CHLORANTHACEAE/,CHLORANTHACEAE
 frynn.com,http://frynn.com/tag/CHRYSOBALANACEAE/,CHRYSOBALANACEAE
 frynn.com,http://frynn.com/tag/CIBOTIACEAE/,CIBOTIACEAE
 frynn.com,http://frynn.com/tag/CLEOMACEAE/,CLEOMACEAE
-frynn.com,"http://frynn.com/tag/CLUSIACEAE/,http://frynn.com/tag/GUTTIFERAE/","CLUSIACEAE,GUTTIFERAE"
+frynn.com,http://frynn.com/tag/CLUSIACEAE/,CLUSIACEAE
+frynn.com,http://frynn.com/tag/GUTTIFERAE/,GUTTIFERAE
 frynn.com,http://frynn.com/tag/CLUSIOIDEAE/,CLUSIOIDEAE
-health.kapook.com,http://health.kapook.com/view131050.html,
-health.kapook.com,http://health.kapook.com/view110535.html,
-health.kapook.com,http://health.kapook.com/view130367.html,
-health.kapook.com,http://health.kapook.com/view131364.html,
-health.kapook.com,http://health.kapook.com/view130805.html,
-health.kapook.com,http://health.kapook.com/view129463.html,
-health.kapook.com,http://health.kapook.com/view128772.html,
-health.kapook.com,http://health.kapook.com/view128684.html,
-health.kapook.com,http://health.kapook.com/view128605.html,
 frynn.com,http://frynn.com/tag/COLCHICACEAE/,COLCHICACEAE
 frynn.com,http://frynn.com/tag/COMBRETACEAE/,COMBRETACEAE
 frynn.com,http://frynn.com/tag/COMMELINACEAE/,COMMELINACEAE
@@ -379,16 +231,6 @@ frynn.com,http://frynn.com/tag/COSTACEAE/,COSTACEAE
 frynn.com,http://frynn.com/tag/CRASSULACEAE/,CRASSULACEAE
 frynn.com,http://frynn.com/tag/CUCURBITACEAE/,CUCURBITACEAE
 frynn.com,http://frynn.com/tag/CUPRESSACEAE/,CUPRESSACEAE
-health.kapook.com,http://health.kapook.com/view128540.html,
-health.kapook.com,http://health.kapook.com/view128415.html,
-health.kapook.com,http://health.kapook.com/view128409.html,
-health.kapook.com,http://health.kapook.com/view127678.html,
-world.kapook.com,http://world.kapook.com,คลิป
-world.kapook.com,http://world.kapook.com,ภาพ
-calendar.kapook.com,http://calendar.kapook.com,ปฏิทิน 2556
-facebook.kapook.com,http://facebook.kapook.com,เฟซบุ๊ก
-twitter.kapook.com,http://twitter.kapook.com,ทวิตเตอร์
-women.kapook.com,http://women.kapook.com/view34057.html,Instagram ดารา
 frynn.com,http://frynn.com/tag/CYATHEACEAE/,CYATHEACEAE
 frynn.com,http://frynn.com/tag/CYCADACEAE/,CYCADACEAE
 frynn.com,http://frynn.com/tag/CYPERACEAE/,CYPERACEAE
@@ -397,34 +239,22 @@ frynn.com,http://frynn.com/tag/DIOSCOREACEAE/,DIOSCOREACEAE
 frynn.com,http://frynn.com/tag/DIPTEROCARPACEAE/,DIPTEROCARPACEAE
 frynn.com,http://frynn.com/tag/EBENACEAE/,EBENACEAE
 frynn.com,http://frynn.com/tag/ELAEAGNACEAE/,ELAEAGNACEAE
-poem.kapook.com,http://poem.kapook.com,กลอน
-gamecenter.kapook.com,http://gamecenter.kapook.com/checker/,แชทหมากฮอส
-gamecenter.kapook.com,http://gamecenter.kapook.com/thaichess/,หมากรุกไทย
-glitter.kapook.com,http://glitter.kapook.com/,Glitter
-health.kapook.com,http://health.kapook.com/diet,วิธีลดน้ำหนัก
-health.kapook.com,http://health.kapook.com/exercise,ออกกำลังกาย
-health.kapook.com,http://health.kapook.com/mental_health,สุขภาพจิต
-health.kapook.com,http://health.kapook.com/disease,โรคและการป้องกัน
 frynn.com,http://frynn.com/tag/ELAEOCARPACEAE/,ELAEOCARPACEAE
 frynn.com,http://frynn.com/tag/ERICACEAE/,ERICACEAE
 frynn.com,http://frynn.com/tag/ERYTHROXYLACEAE/,ERYTHROXYLACEAE
 frynn.com,http://frynn.com/tag/EUPHORBIACEAE/,EUPHORBIACEAE
 frynn.com,http://frynn.com/tag/ACALYPHOIDEAE/,ACALYPHOIDEAE
-frynn.com,"http://frynn.com/tag/FABACEAE/,http://frynn.com/tag/LEGUMINOSAE/","FABACEAE,LEGUMINOSAE"
-frynn.com,"http://frynn.com/tag/CAESALPINIOIDEAE/,http://frynn.com/tag/CAESALPINIACEAE/","CAESALPINIOIDEAE,CAESALPINIACEAE"
-frynn.com,"http://frynn.com/tag/FABOIDEAE/,http://frynn.com/tag/PAPILIONOIDEAE/,http://frynn.com/tag/PAPILIONACEAE/","FABOIDEAE,PAPILIONOIDEAE,PAPILIONACEAE"
-frynn.com,"http://frynn.com/tag/MIMOSOIDEAE/,http://frynn.com/tag/MIMOSACEAE/","MIMOSOIDEAE,MIMOSACEAE"
+frynn.com,http://frynn.com/tag/FABACEAE/,FABACEAE
+frynn.com,http://frynn.com/tag/LEGUMINOSAE/,LEGUMINOSAE
+frynn.com,http://frynn.com/tag/CAESALPINIOIDEAE/,CAESALPINIOIDEAE
+frynn.com,http://frynn.com/tag/CAESALPINIACEAE/,CAESALPINIACEAE
+frynn.com,http://frynn.com/tag/FABOIDEAE/,FABOIDEAE
+frynn.com,http://frynn.com/tag/PAPILIONOIDEAE/,PAPILIONOIDEAE
+frynn.com,http://frynn.com/tag/PAPILIONACEAE/,PAPILIONACEAE
+frynn.com,http://frynn.com/tag/MIMOSOIDEAE/,MIMOSOIDEAE
+frynn.com,http://frynn.com/tag/MIMOSACEAE/,MIMOSACEAE
 frynn.com,http://frynn.com/tag/FAGACEAE/,FAGACEAE
 frynn.com,http://frynn.com/tag/FLAGELLARIACEAE/,FLAGELLARIACEAE
-health.kapook.com,http://health.kapook.com/women,สุขภาพผู้หญิง
-men.kapook.com,http://men.kapook.com/health,สุขภาพผู้ชาย
-health.kapook.com,http://health.kapook.com/food,อาหารเพื่อสุขภาพ
-health.kapook.com,http://health.kapook.com/herb,สมุนไพรเพื่อสุขภาพ
-health.kapook.com,http://health.kapook.com/view24770.html,ผลไม้เพื่อสุขภาพ
-health.kapook.com,http://health.kapook.com/news,ข่าวสุขภาพ
-health.kapook.com,http://health.kapook.com/clip,คลิปสุขภาพ
-health.kapook.com,http://health.kapook.com,บทความสุขภาพ
-health.kapook.com,http://health.kapook.com,Kapook สุขภาพ
 frynn.com,http://frynn.com/tag/GANODERMATACEAE/,GANODERMATACEAE
 frynn.com,http://frynn.com/tag/GENTIANACEAE/,GENTIANACEAE
 frynn.com,http://frynn.com/tag/GINKGOACEAE/,GINKGOACEAE
@@ -434,31 +264,19 @@ frynn.com,http://frynn.com/tag/HYDROCHARITACEAE/,HYDROCHARITACEAE
 frynn.com,http://frynn.com/tag/HYPERICACEAE/,HYPERICACEAE
 frynn.com,http://frynn.com/tag/IRIDACEAE/,IRIDACEAE
 frynn.com,http://frynn.com/tag/IRVINGIACEAE/,IRVINGIACEAE
-health.kapook.com,http://health.kapook.com/care,การดูแลสุขภาพ
-tv.kapook.com,http://tv.kapook.com/,ดูทีวีออนไลน์
-gamecenter.kapook.com,http://gamecenter.kapook.com/,Game
-musicstation.kapook.com,http://musicstation.kapook.com/,ฟังเพลง
-horoscope.kapook.com,http://horoscope.kapook.com/,ดูดวง
-women.kapook.com,http://women.kapook.com/,ผู้หญิง
-men.kapook.com,http://men.kapook.com/,ผู้ชาย
-football.kapook.com,http://football.kapook.com/,ฟุตบอล
-world.kapook.com,http://world.kapook.com/,Kapook World
-m.kapook.com,http://m.kapook.com/app/,Kapook Mobile App
 frynn.com,http://frynn.com/tag/JUGLANDACEAE/,JUGLANDACEAE
-frynn.com,"http://frynn.com/tag/LAMIACEAE/,http://frynn.com/tag/LABIATAE/","LAMIACEAE,LABIATAE"
+frynn.com,http://frynn.com/tag/LAMIACEAE/,LAMIACEAE
+frynn.com,http://frynn.com/tag/LABIATAE/,LABIATAE
 frynn.com,http://frynn.com/tag/LAURACEAE/,LAURACEAE
-frynn.com,"http://frynn.com/tag/LECYTHIDACEAE/,http://frynn.com/tag/BARRINGTONIACEAE/","LECYTHIDACEAE,BARRINGTONIACEAE"
-frynn.com,"http://frynn.com/tag/LOGANIACEAE/,http://frynn.com/tag/STRYCHNACEAE/","LOGANIACEAE,STRYCHNACEAE"
+frynn.com,http://frynn.com/tag/LECYTHIDACEAE/,LECYTHIDACEAE
+frynn.com,http://frynn.com/tag/BARRINGTONIACEAE/,BARRINGTONIACEAE
+frynn.com,http://frynn.com/tag/LOGANIACEAE/,LOGANIACEAE
+frynn.com,http://frynn.com/tag/STRYCHNACEAE/,STRYCHNACEAE
 frynn.com,http://frynn.com/tag/LYGODIACEAE/,LYGODIACEAE
 frynn.com,http://frynn.com/tag/LYTHRACEAE/,LYTHRACEAE
 frynn.com,http://frynn.com/tag/MAGNOLIACEAE/,MAGNOLIACEAE
 frynn.com,http://frynn.com/tag/MALPIGHIACEAE/,MALPIGHIACEAE
 frynn.com,http://frynn.com/tag/MALVACEAE/,MALVACEAE
-alert.kapook.com,http://alert.kapook.com/,Kapook Alert
-m.kapook.com,http://m.kapook.com/hotline/,แอพสายด่วน
-www.kapook.com,http://www.kapook.com/advert,ติดต่อโฆษณา 
-health.kapook.com,http://health.kapook.com/,หน้าแรก
-signup-demo.kapook.com,http://signup-demo.kapook.com/connect/facebook?callback=http://health.kapook.com/herb, เข้าระบบด้วย Facebook
 frynn.com,http://frynn.com/tag/BOMBACOIDEAE/,BOMBACOIDEAE
 frynn.com,http://frynn.com/tag/GREWIOIDEAE/,GREWIOIDEAE
 frynn.com,http://frynn.com/tag/MALVOIDEAE/,MALVOIDEAE
@@ -475,12 +293,6 @@ frynn.com,http://frynn.com/tag/MORINGACEAE/,MORINGACEAE
 frynn.com,http://frynn.com/tag/MUNTINGIACEAE/,MUNTINGIACEAE
 frynn.com,http://frynn.com/tag/MUSACEAE/,MUSACEAE
 frynn.com,http://frynn.com/tag/MYRISTICACEAE/,MYRISTICACEAE
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/,Home
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/about,About
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/page/2,2
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/page/3,3
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/page/4,4
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/page/20,20
 frynn.com,http://frynn.com/tag/MYRTACEAE/,MYRTACEAE
 frynn.com,http://frynn.com/tag/NELUMBONACEAE/,NELUMBONACEAE
 frynn.com,http://frynn.com/tag/NYCTAGINACEAE/,NYCTAGINACEAE
@@ -492,14 +304,6 @@ frynn.com,http://frynn.com/tag/ONAGRACEAE/,ONAGRACEAE
 frynn.com,http://frynn.com/tag/OPILIACEAE/,OPILIACEAE
 frynn.com,http://frynn.com/tag/ORCHIDACEAE/,ORCHIDACEAE
 frynn.com,http://frynn.com/tag/EPIDENDROIDEAE/,EPIDENDROIDEAE
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/page/2,»
-sirikanlaya-sskru.com,http://sirikanlaya-sskru.com/blog/,Sirikanlaya-SSKRU
-sirikanlaya.com,http://sirikanlaya.com,Sirikanlaya
-www.kewarin.com,http://www.kewarin.com,Kewarin
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1188,ความก้าวหน้าในการพัฒนา Web Crawler ด้วย Scrapy
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1181,โค๊ดสำหรับดึงข้อมูลจากเว็บไซต์ และประมวลผลด้วย BeautifulSOUP
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1167,พิธีลงนามบันทึกข้อตกลงความร่วมมือ (MOU) เพื่อการพัฒนาด้านการประกันคุณภาพการศึกษา ระหว่าง สมศ. และ มหาวิทยาลัยราชภัฎศรีสะเกษ
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1161,ประชุมชี้แจงการดำเนินงานด้านการประกันคุณภาพ เพื่อรองรับการประเมิน ปีการศึกษา 2557
 frynn.com,http://frynn.com/tag/OROBANCHACEAE/,OROBANCHACEAE
 frynn.com,http://frynn.com/tag/OXALIDACEAE/,OXALIDACEAE
 frynn.com,http://frynn.com/tag/PANDANACEAE/,PANDANACEAE
@@ -508,52 +312,29 @@ frynn.com,http://frynn.com/tag/PASSIFLORACEAE/,PASSIFLORACEAE
 frynn.com,http://frynn.com/tag/PEDALIACEAE/,PEDALIACEAE
 frynn.com,http://frynn.com/tag/PENTAPHYLACACEAE/,PENTAPHYLACACEAE
 frynn.com,http://frynn.com/tag/PHYLLANTHACEAE/,PHYLLANTHACEAE
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1148,ชลอชีวิตที่วิ่งเร็ว…ด้วยการ…ขีดๆ เขียนๆ
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1076#comment-516,ให้ข้อมูลสำหรับการวิจัยเรื่อง “ปัจจัยที่ส่งผลสำเร็จต่อการนำนโยบายด้านการประกันคุณภาพมาสู่การปฏิบัติ”
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1096#comment-515,ทดลองใช้ Scrapy
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/645#comment-19,Python : Permutations Generator
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/263#comment-18,ส่งข้อเสนอแผนงานวิจัย วช.58
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/637#comment-17,วิชาการออกแบบและพัฒนาเว็บ : เริ่มต้นความกล้าที่จะคิด
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2015/10,October 2015
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2015/09,September 2015
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2015/08,August 2015
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2015/07,July 2015
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2015/06,June 2015
 frynn.com,http://frynn.com/tag/PINACEAE/,PINACEAE
 frynn.com,http://frynn.com/tag/PIPERACEAE/,PIPERACEAE
 frynn.com,http://frynn.com/tag/PLANTAGINACEAE/,PLANTAGINACEAE
 frynn.com,http://frynn.com/tag/PLUMBAGINACEAE/,PLUMBAGINACEAE
-frynn.com,"http://frynn.com/tag/POACEAE/,http://frynn.com/tag/GRAMINEAE/","POACEAE,GRAMINEAE"
+frynn.com,http://frynn.com/tag/POACEAE/,POACEAE
+frynn.com,http://frynn.com/tag/GRAMINEAE/,GRAMINEAE
 frynn.com,http://frynn.com/tag/PANICOIDEAE/,PANICOIDEAE
 frynn.com,http://frynn.com/tag/POLYGALACEAE/,POLYGALACEAE
 frynn.com,http://frynn.com/tag/POLYGONACEAE/,POLYGONACEAE
 frynn.com,http://frynn.com/tag/POLYPODIACEAE/,POLYPODIACEAE
 frynn.com,http://frynn.com/tag/PONTEDERIACEAE/,PONTEDERIACEAE
 frynn.com,http://frynn.com/tag/PORTULACACEAE/,PORTULACACEAE
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2015/05,May 2015
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2015/04,April 2015
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2015/03,March 2015
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2015/02,February 2015
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2015/01,January 2015
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2014/12,December 2014
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2014/11,November 2014
-frynn.com,"http://frynn.com/tag/PRIMULACEAE/,http://frynn.com/tag/MYRSINACEAE/","PRIMULACEAE,MYRSINACEAE"
+frynn.com,http://frynn.com/tag/PRIMULACEAE/,PRIMULACEAE
+frynn.com,http://frynn.com/tag/MYRSINACEAE/,MYRSINACEAE
 frynn.com,http://frynn.com/tag/RHAMNACEAE/,RHAMNACEAE
 frynn.com,http://frynn.com/tag/RHIZOPHORACEAE/,RHIZOPHORACEAE
 frynn.com,http://frynn.com/tag/ROSACEAE/,ROSACEAE
-frynn.com,"http://frynn.com/tag/MALOIDEAE/,http://frynn.com/tag/SPIRAEOIDEAE/","MALOIDEAE,SPIRAEOIDEAE"
+frynn.com,http://frynn.com/tag/MALOIDEAE/,MALOIDEAE
+frynn.com,http://frynn.com/tag/SPIRAEOIDEAE/,SPIRAEOIDEAE
 frynn.com,http://frynn.com/tag/RUBIACEAE/,RUBIACEAE
 frynn.com,http://frynn.com/tag/RUTACEAE/,RUTACEAE
 frynn.com,http://frynn.com/tag/AURANTIOIDEAE/,AURANTIOIDEAE
 frynn.com,http://frynn.com/tag/SALICACEAE/,SALICACEAE
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2014/06,June 2014
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2014/05,May 2014
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2014/04,April 2014
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2014/03,March 2014
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2014/02,February 2014
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2014/01,January 2014
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2013/12,December 2013
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2013/11,November 2013
 frynn.com,http://frynn.com/tag/SANTALACEAE/,SANTALACEAE
 frynn.com,http://frynn.com/tag/SAPINDACEAE/,SAPINDACEAE
 frynn.com,http://frynn.com/tag/SAPOTACEAE/,SAPOTACEAE
@@ -565,14 +346,6 @@ frynn.com,http://frynn.com/tag/SIMAROUBACEAE/,SIMAROUBACEAE
 frynn.com,http://frynn.com/tag/SMILACACEAE/,SMILACACEAE
 frynn.com,http://frynn.com/tag/SOLANACEAE/,SOLANACEAE
 frynn.com,http://frynn.com/tag/STEMONACEAE/,STEMONACEAE
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2013/10,October 2013
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/date/2013/09,September 2013
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/category/personal,Personal
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/category/ror,ROR
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/category/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%ad%e0%b8%99,การเรียนการสอน
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/category/%e0%b8%9a%e0%b8%97%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1,บทความ
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/category/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a9%e0%b8%b2,ประกันคุณภาพการศึกษา
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/category/%e0%b8%a7%e0%b8%b4%e0%b8%88%e0%b8%b1%e0%b8%a2,วิจัย
 frynn.com,http://frynn.com/tag/STERCULIACEAE/,STERCULIACEAE
 frynn.com,http://frynn.com/tag/HELICTEROIDEAE/,HELICTEROIDEAE
 frynn.com,http://frynn.com/tag/STYRACACEAE/,STYRACACEAE
@@ -580,19 +353,9 @@ frynn.com,http://frynn.com/tag/TALINACEAE/,TALINACEAE
 frynn.com,http://frynn.com/tag/THEACEAE/,THEACEAE
 frynn.com,http://frynn.com/tag/THYMELAEACEAE/,THYMELAEACEAE
 frynn.com,http://frynn.com/tag/TYPHACEAE/,TYPHACEAE
-frynn.com,"http://frynn.com/tag/URTICACEAE/,http://frynn.com/tag/CECROPIACEAE/","URTICACEAE,CECROPIACEAE"
+frynn.com,http://frynn.com/tag/URTICACEAE/,URTICACEAE
+frynn.com,http://frynn.com/tag/CECROPIACEAE/,CECROPIACEAE
 frynn.com,http://frynn.com/tag/VERBENACEAE/,VERBENACEAE
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/wp-login.php,Log in
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/feed,Entries 
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/comments/feed,Comments 
-wordpress.org,https://wordpress.org/,WordPress.org
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/feed,
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1188 ,Read more »
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1188,"
-							,						"
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1181 ,Read more »
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1181,"
-							,						"
 frynn.com,http://frynn.com/tag/VITACEAE/,VITACEAE
 frynn.com,http://frynn.com/tag/XANTHORRHOEACEAE/,XANTHORRHOEACEAE
 frynn.com,http://frynn.com/tag/ASPHODELOIDEAE/,ASPHODELOIDEAE
@@ -602,19 +365,6 @@ frynn.com,http://frynn.com/about/,About Us
 frynn.com,http://frynn.com/contact/,Contact Us
 frynn.com,http://frynn.com/terms/,Terms & Privacy
 frynn.com,http://frynn.com/health/,สาระสุขภาพ
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1167 ,Read more »
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1167,"
-							,						"
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1161 ,Read more »
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1161,"
-							,						"
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1148 ,Read more »
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1148,"
-							,						"
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1143 ,Read more »
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1143,"
-							,						"
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1134 ,Read more »
 frynn.com,http://frynn.com/health/addictions/,การเสพติด
 frynn.com,http://frynn.com/oral-health/,สุขภาพช่องปาก
 frynn.com,http://frynn.com/skin-problems-and-treatments/,ปัญหาผิว
@@ -623,10 +373,6 @@ frynn.com,http://frynn.com/family-pregnancy/,ครอบครัวและ�
 frynn.com,http://frynn.com/family-pregnancy/sex-and-relationships/,เซ็กส์และความสัมพันธ์
 frynn.com,http://frynn.com/weight-loss/,วิธีลดน้ำหนัก & ความอ้วน
 frynn.com,http://frynn.com/beauty/,ความสวย ความงาม
-phisan.sskru.ac.th,http://phisan.sskru.ac.th/blog/archives/1134,"
-							,						"
-phisan.sskru.ac.th,"http://phisan.sskru.ac.th/blog/archives/tag/opencv,http://phisan.sskru.ac.th/blog/archives/tag/programming,http://phisan.sskru.ac.th/blog/archives/tag/python,http://phisan.sskru.ac.th/blog/archives/tag/rails,http://phisan.sskru.ac.th/blog/archives/tag/ror,http://phisan.sskru.ac.th/blog/archives/tag/ruby,http://phisan.sskru.ac.th/blog/archives/tag/ruby-on-rails,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%94%e0%b8%b9%e0%b9%81%e0%b8%a5%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a9%e0%b8%b2%e0%b8%aa%e0%b8%b8%e0%b8%82%e0%b8%a0%e0%b8%b2%e0%b8%9e,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9a%e0%b8%9a,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%81%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%88%e0%b8%b1%e0%b8%87%e0%b8%ab%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%a8%e0%b8%a3%e0%b8%b5%e0%b8%aa%e0%b8%b0%e0%b9%80%e0%b8%81%e0%b8%a9,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%8a%e0%b8%a7%e0%b8%99%e0%b8%8a%e0%b8%a1,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%94%e0%b8%ad%e0%b8%81%e0%b9%84%e0%b8%a1%e0%b9%89,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%95%e0%b9%89%e0%b8%99%e0%b9%84%e0%b8%a1%e0%b9%89,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%97%e0%b8%b8%e0%b8%99%e0%b8%a7%e0%b8%b4%e0%b8%88%e0%b8%b1%e0%b8%a2,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%9a%e0%b8%97%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%94%e0%b8%ad%e0%b8%99%e0%b8%ab%e0%b8%a5%e0%b8%b5%e0%b9%88,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b1%e0%b8%99-2557,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%a0%e0%b8%b2%e0%b8%9e,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%9b%e0%b8%a3%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b9%8c%e0%b8%81%e0%b8%b9%e0%b9%88,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%8d%e0%b8%b2%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b4%e0%b8%a9%e0%b8%90%e0%b9%8c,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%ad%e0%b8%a1%e0%b8%b7%e0%b8%ad,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%9e%e0%b8%b4%e0%b8%a8%e0%b8%b2%e0%b8%a5-%e0%b8%aa%e0%b8%b8%e0%b8%82%e0%b8%82%e0%b8%b5,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a0%e0%b8%b9%e0%b8%a1%e0%b8%b4%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%8d%e0%b8%b2%e0%b8%97%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%96%e0%b8%b4%e0%b9%88%e0%b8%99,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a1%e0%b8%a3%e0%b8%a0-%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%a0%e0%b8%b1%e0%b8%8f%e0%b8%a8%e0%b8%a3%e0%b8%b5%e0%b8%aa%e0%b8%b0%e0%b9%80%e0%b8%81%e0%b8%a9,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a1%e0%b8%a3%e0%b8%a0-%e0%b8%a8%e0%b8%a3%e0%b8%b5%e0%b8%aa%e0%b8%b0%e0%b9%80%e0%b8%81%e0%b8%a9,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a5%e0%b8%b1%e0%b8%a2%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%a0%e0%b8%b1%e0%b8%8f%e0%b8%a8%e0%b8%a3%e0%b8%b5%e0%b8%aa%e0%b8%b0,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%a8,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%ad,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%ad%e0%b8%a1%e0%b8%b7%e0%b8%ad,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a7%e0%b8%8a-57,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a7%e0%b8%8a-58,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a7%e0%b8%8a-59,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a7%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%82%e0%b8%b2%e0%b8%a7%e0%b8%97%e0%b8%ad%e0%b8%87,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a7%e0%b8%b4%e0%b8%88%e0%b8%b1%e0%b8%a2,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%a8%e0%b8%a3%e0%b8%b5%e0%b8%aa%e0%b8%b0%e0%b9%80%e0%b8%81%e0%b8%a9,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%aa%e0%b8%81%e0%b8%ad-57,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%a8%e0%b8%a5%e0%b8%b2%e0%b8%a2%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%97%e0%b8%ad,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b1%e0%b8%a5%e0%b8%a2%e0%b8%b2-%e0%b8%aa%e0%b8%b8%e0%b8%82%e0%b8%82%e0%b8%b5,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%a7%e0%b8%a2%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%a3%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%84,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b8%ad%e0%b8%9a%e0%b8%a3%e0%b8%a1,http://phisan.sskru.ac.th/blog/archives/tag/%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%a7%e0%b8%b4%e0%b8%88%e0%b8%b1%e0%b8%a2","opencv,programming,python,rails,ROR,ruby,ruby on rails,การดูแลรักษาสุขภาพ,การออกแบบ,กินเที่ยว,จังหวัดศรีสะเกษ,ชวนชม,ดอกไม้,ต้นไม้,ทุนวิจัย,ท่องเที่ยว,บทความ,บันทึก,บ้านดอนหลี่,ประกัน 2557,ประกันคุณภาพ,ปรางค์กู่,ปัญญาประดิษฐ์,ผ้าทอมือ,พิศาล สุขขี,ภูมิปัญญาท้องถิ่น,มรภ.ราชภัฏศรีสะเกษ,มรภ.ศรีสะเกษ,มหาวิทยาลัยราชภัฏศรีสะเกษ,ระบบสารสนเทศ,ลายผ้าทอ,ลายผ้าทอมือ,วช.57,วช.58,วช.59,วันหยุด,วารสารขาวทอง,วิจัย,ศรีสะเกษ,สกอ 57,สารสนเทศลายผ้าทอ,สิริกัลยา สุขขี,หน่วยมาตรฐานและประกันคุณภาพการศึกษา,อบรม,แผนงานวิจัย"
-wordpress.org,"http://wordpress.org/,http://design.altervista.org","Proudly powered by WordPress,Design Lab"
 frynn.com,http://frynn.com/bright-skin/,วิธีทำให้ผิวขาว
 frynn.com,http://frynn.com/clear-spots/,วิธีรักษาสิว ฝ้า กระ
 frynn.com,http://frynn.com/cosmetics/,ทิปเครื่องสำอาง
@@ -1113,7 +859,8 @@ frynn.com,http://frynn.com/บานไม่รู้โรยดอกขา�
 frynn.com,http://frynn.com/บานไม่รู้โรยป่า/,บานไม่รู้โรยป่า
 frynn.com,http://frynn.com/บานเย็น/,บานเย็น
 frynn.com,http://frynn.com/บีทรูท/,บีทรูท
-frynn.com,"http://frynn.com/บุก/,http://frynn.com/บุก/#T-2","บุก,บุกคางคก"
+frynn.com,http://frynn.com/บุก/,บุก
+frynn.com,http://frynn.com/บุก/#T-2,บุกคางคก
 frynn.com,http://frynn.com/บุกอีรอกเขา/,บุกอีรอกเขา
 frynn.com,http://frynn.com/บุนนาค/,บุนนาค
 frynn.com,http://frynn.com/เบญกานี/,เบญกานี
@@ -1672,4 +1419,5 @@ frynn.com,http://frynn.com/แอหนัง/,แอหนัง
 frynn.com,http://frynn.com/โคโรค/,โคโรค
 frynn.com,http://frynn.com/ชะมดเชียง/,ชะมดเชียง
 frynn.com,http://frynn.com,
-frynn.com,"http://frynn.com,http://frynn.com"," , , HOME "
+frynn.com,http://frynn.com, 
+frynn.com,http://frynn.com, 
