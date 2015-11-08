@@ -1,23 +1,22 @@
 import scrapy
+import csv
 from TextMining.items import TextminingItem
 from urlparse import urlparse
 from urlparse import urljoin
 
 class TextMiningSpider(scrapy.Spider):
     name = "phisan"
-    allowed_domains = [
-        "phisan.sskru.ac.th",
-        "health.kapook.com",
-        "frynn.com",
-        "rspg.or.th",
-    ]
+    cr = csv.reader(open("/Users/phisanshukkhi/Desktop/urllist.csv", "rb"))
+    start_urls = [line[1].strip() for line in cr]
 
-    start_urls = [
-        "http://health.kapook.com/herb",
-        "http://frynn.com/herb",
-        "http://frynn.com/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%99%e0%b9%84%e0%b8%9e%e0%b8%a3",
-        'http://www.rspg.or.th/plants_data/herbs/herbs_200.htm',
+    '''
+    allowed_domains = [
+        "thailandcanhealth.com",
     ]
+    start_urls = [
+        'http://www.thailandcanhealth.com/category/herb/',
+    ]
+    '''
 
     def parse(self, response):
         selectors = [
@@ -26,7 +25,7 @@ class TextMiningSpider(scrapy.Spider):
             '//tr/td',
             '//div',
             '//p',
-            '//font'
+            '//font',
         ]
         for selector in selectors:
             for sel in response.xpath(selector):
