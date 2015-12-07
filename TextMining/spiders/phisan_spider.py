@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import scrapy
 import csv
 from TextMining.items import TextminingItem
@@ -9,14 +10,12 @@ class TextMiningSpider(scrapy.Spider):
     cr = csv.reader(open("/Users/phisanshukkhi/Desktop/urllist.csv", "rb"))
     start_urls = [line[1].strip() for line in cr]
 
-    '''
-    allowed_domains = [
-        "thailandcanhealth.com",
-    ]
-    start_urls = [
-        'http://www.thailandcanhealth.com/category/herb/',
-    ]
-    '''
+    # allowed_domains = [
+    #     "thaiherb.most.go.th",
+    # ]
+    # start_urls = [
+    #     'http://thaiherb.most.go.th/?q=herb',
+    # ]
 
     def parse(self, response):
         selectors = [
